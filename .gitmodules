@@ -1,0 +1,3 @@
+[submodule "datasets/tennis_atp"]
+	path = datasets/tennis_atp
+	url = git@github.com:JeffSackmann/tennis_atp.git
